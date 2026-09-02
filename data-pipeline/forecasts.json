@@ -1,0 +1,1152 @@
+{
+  "generated_at": "2026-09-02",
+  "model": "prophet",
+  "categories": [
+    {
+      "category": "Groceries & Food",
+      "monthly_budget": 400,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 18.08
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 18.31
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 55.33,
+          "cumulative_lower": 52.0,
+          "cumulative_upper": 58.77
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 72.62,
+          "cumulative_lower": 65.73,
+          "cumulative_upper": 79.33
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 99.71,
+          "cumulative_lower": 89.38,
+          "cumulative_upper": 109.92
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 125.4,
+          "cumulative_lower": 111.69,
+          "cumulative_upper": 138.88
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 143.86,
+          "cumulative_lower": 126.74,
+          "cumulative_upper": 161.0
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 162.59,
+          "cumulative_lower": 142.0,
+          "cumulative_upper": 183.36
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 180.33,
+          "cumulative_lower": 156.5,
+          "cumulative_upper": 204.28
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 199.65,
+          "cumulative_lower": 172.11,
+          "cumulative_upper": 227.04
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 217.32,
+          "cumulative_lower": 186.45,
+          "cumulative_upper": 247.94
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 244.79,
+          "cumulative_lower": 210.51,
+          "cumulative_upper": 278.87
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 270.86,
+          "cumulative_lower": 233.24,
+          "cumulative_upper": 308.25
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 289.71,
+          "cumulative_lower": 248.43,
+          "cumulative_upper": 330.51
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 308.81,
+          "cumulative_lower": 264.26,
+          "cumulative_upper": 352.78
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 326.93,
+          "cumulative_lower": 278.98,
+          "cumulative_upper": 374.14
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 346.64,
+          "cumulative_lower": 295.17,
+          "cumulative_upper": 397.23
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 364.69,
+          "cumulative_lower": 309.68,
+          "cumulative_upper": 418.62
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 392.55,
+          "cumulative_lower": 334.11,
+          "cumulative_upper": 449.97
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 419.0,
+          "cumulative_lower": 357.41,
+          "cumulative_upper": 479.92
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 438.22,
+          "cumulative_lower": 373.24,
+          "cumulative_upper": 502.48
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 457.71,
+          "cumulative_lower": 389.15,
+          "cumulative_upper": 525.37
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 476.22,
+          "cumulative_lower": 404.34,
+          "cumulative_upper": 547.08
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 496.3,
+          "cumulative_lower": 420.89,
+          "cumulative_upper": 570.68
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 514.73,
+          "cumulative_lower": 436.09,
+          "cumulative_upper": 592.56
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 542.97,
+          "cumulative_lower": 460.83,
+          "cumulative_upper": 624.45
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 569.81,
+          "cumulative_lower": 484.07,
+          "cumulative_upper": 654.87
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 589.41,
+          "cumulative_lower": 500.06,
+          "cumulative_upper": 677.84
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 609.28,
+          "cumulative_lower": 516.55,
+          "cumulative_upper": 701.09
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 628.17,
+          "cumulative_lower": 532.16,
+          "cumulative_upper": 723.51
+        }
+      ],
+      "cumulative_actual_to_date": 36.39,
+      "breach": {
+        "will_breach": true,
+        "date": "2026-09-20",
+        "days_from_now": 18
+      }
+    },
+    {
+      "category": "Shopping & Personal",
+      "monthly_budget": 180,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 11.04
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 8.08
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 28.31,
+          "cumulative_lower": 22.78,
+          "cumulative_upper": 33.32
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 37.88,
+          "cumulative_lower": 27.36,
+          "cumulative_upper": 48.06
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 50.16,
+          "cumulative_lower": 34.3,
+          "cumulative_upper": 65.58
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 61.77,
+          "cumulative_lower": 40.78,
+          "cumulative_upper": 82.26
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 71.06,
+          "cumulative_lower": 45.43,
+          "cumulative_upper": 96.95
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 80.91,
+          "cumulative_lower": 50.43,
+          "cumulative_upper": 112.22
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 89.95,
+          "cumulative_lower": 54.36,
+          "cumulative_upper": 126.42
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 99.38,
+          "cumulative_lower": 58.14,
+          "cumulative_upper": 140.64
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 109.2,
+          "cumulative_lower": 62.95,
+          "cumulative_upper": 155.54
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 121.72,
+          "cumulative_lower": 70.71,
+          "cumulative_upper": 173.03
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 133.58,
+          "cumulative_lower": 77.21,
+          "cumulative_upper": 190.11
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 143.12,
+          "cumulative_lower": 81.53,
+          "cumulative_upper": 204.53
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 153.22,
+          "cumulative_lower": 86.7,
+          "cumulative_upper": 219.4
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 162.49,
+          "cumulative_lower": 90.84,
+          "cumulative_upper": 233.57
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 172.17,
+          "cumulative_lower": 95.58,
+          "cumulative_upper": 248.28
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 182.24,
+          "cumulative_lower": 100.49,
+          "cumulative_upper": 263.34
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 195.01,
+          "cumulative_lower": 108.68,
+          "cumulative_upper": 281.05
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 207.12,
+          "cumulative_lower": 115.7,
+          "cumulative_upper": 298.45
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 216.9,
+          "cumulative_lower": 120.25,
+          "cumulative_upper": 313.16
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 227.24,
+          "cumulative_lower": 125.4,
+          "cumulative_upper": 328.68
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 236.77,
+          "cumulative_lower": 129.36,
+          "cumulative_upper": 343.47
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 246.69,
+          "cumulative_lower": 134.14,
+          "cumulative_upper": 358.56
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 257.0,
+          "cumulative_lower": 138.89,
+          "cumulative_upper": 374.24
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 270.02,
+          "cumulative_lower": 146.89,
+          "cumulative_upper": 392.5
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 282.37,
+          "cumulative_lower": 153.74,
+          "cumulative_upper": 410.1
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 292.4,
+          "cumulative_lower": 158.9,
+          "cumulative_upper": 424.99
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 302.99,
+          "cumulative_lower": 164.63,
+          "cumulative_upper": 441.06
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 312.76,
+          "cumulative_lower": 169.39,
+          "cumulative_upper": 455.29
+        }
+      ],
+      "cumulative_actual_to_date": 19.12,
+      "breach": {
+        "will_breach": true,
+        "date": "2026-09-18",
+        "days_from_now": 16
+      }
+    },
+    {
+      "category": "Transport",
+      "monthly_budget": 120,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 4.06
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 3.67
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 11.33,
+          "cumulative_lower": 9.72,
+          "cumulative_upper": 12.79
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 14.46,
+          "cumulative_lower": 11.36,
+          "cumulative_upper": 17.42
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 17.16,
+          "cumulative_lower": 12.56,
+          "cumulative_upper": 21.65
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 19.63,
+          "cumulative_lower": 13.61,
+          "cumulative_upper": 25.59
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 23.46,
+          "cumulative_lower": 15.99,
+          "cumulative_upper": 30.84
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 27.3,
+          "cumulative_lower": 18.32,
+          "cumulative_upper": 36.07
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 30.81,
+          "cumulative_lower": 20.32,
+          "cumulative_upper": 41.01
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 34.4,
+          "cumulative_lower": 22.44,
+          "cumulative_upper": 46.09
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 37.51,
+          "cumulative_lower": 24.01,
+          "cumulative_upper": 50.56
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 40.19,
+          "cumulative_lower": 25.2,
+          "cumulative_upper": 54.66
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 42.64,
+          "cumulative_lower": 26.19,
+          "cumulative_upper": 58.56
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 46.45,
+          "cumulative_lower": 28.5,
+          "cumulative_upper": 63.81
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 50.27,
+          "cumulative_lower": 30.89,
+          "cumulative_upper": 69.05
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 53.77,
+          "cumulative_lower": 33.03,
+          "cumulative_upper": 74.04
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 57.33,
+          "cumulative_lower": 35.1,
+          "cumulative_upper": 79.0
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 60.43,
+          "cumulative_lower": 36.69,
+          "cumulative_upper": 83.51
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 63.09,
+          "cumulative_lower": 37.96,
+          "cumulative_upper": 87.58
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 65.52,
+          "cumulative_lower": 39.01,
+          "cumulative_upper": 91.35
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 69.31,
+          "cumulative_lower": 41.33,
+          "cumulative_upper": 96.76
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 73.11,
+          "cumulative_lower": 43.58,
+          "cumulative_upper": 102.07
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 76.59,
+          "cumulative_lower": 45.63,
+          "cumulative_upper": 106.89
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 80.14,
+          "cumulative_lower": 47.81,
+          "cumulative_upper": 111.89
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 83.22,
+          "cumulative_lower": 49.36,
+          "cumulative_upper": 116.37
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 85.86,
+          "cumulative_lower": 50.6,
+          "cumulative_upper": 120.45
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 88.28,
+          "cumulative_lower": 51.58,
+          "cumulative_upper": 124.33
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 92.05,
+          "cumulative_lower": 53.97,
+          "cumulative_upper": 129.53
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 95.83,
+          "cumulative_lower": 56.24,
+          "cumulative_upper": 134.82
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 99.29,
+          "cumulative_lower": 58.25,
+          "cumulative_upper": 139.71
+        }
+      ],
+      "cumulative_actual_to_date": 7.73,
+      "breach": {
+        "will_breach": false,
+        "date": null,
+        "days_from_now": null
+      }
+    },
+    {
+      "category": "Subscriptions & Entertainment",
+      "monthly_budget": 100,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 3.8
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 3.16
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 10.63,
+          "cumulative_lower": 7.87,
+          "cumulative_upper": 13.54
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 14.38,
+          "cumulative_lower": 8.76,
+          "cumulative_upper": 20.19
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 18.64,
+          "cumulative_lower": 10.32,
+          "cumulative_upper": 27.32
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 23.89,
+          "cumulative_lower": 12.74,
+          "cumulative_upper": 35.31
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 27.13,
+          "cumulative_lower": 13.08,
+          "cumulative_upper": 41.5
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 30.1,
+          "cumulative_lower": 13.31,
+          "cumulative_upper": 47.37
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 33.27,
+          "cumulative_lower": 13.51,
+          "cumulative_upper": 53.35
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 36.99,
+          "cumulative_lower": 14.29,
+          "cumulative_upper": 59.8
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 40.78,
+          "cumulative_lower": 15.15,
+          "cumulative_upper": 66.37
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 45.1,
+          "cumulative_lower": 16.7,
+          "cumulative_upper": 73.45
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 50.4,
+          "cumulative_lower": 18.9,
+          "cumulative_upper": 81.33
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 53.68,
+          "cumulative_lower": 19.29,
+          "cumulative_upper": 87.35
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 56.71,
+          "cumulative_lower": 19.39,
+          "cumulative_upper": 93.23
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 59.92,
+          "cumulative_lower": 19.73,
+          "cumulative_upper": 99.28
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 63.7,
+          "cumulative_lower": 20.79,
+          "cumulative_upper": 106.04
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 67.53,
+          "cumulative_lower": 21.92,
+          "cumulative_upper": 112.71
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 71.9,
+          "cumulative_lower": 23.39,
+          "cumulative_upper": 120.03
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 77.25,
+          "cumulative_lower": 25.82,
+          "cumulative_upper": 128.27
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 80.58,
+          "cumulative_lower": 26.53,
+          "cumulative_upper": 134.49
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 83.66,
+          "cumulative_lower": 26.72,
+          "cumulative_upper": 140.67
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 86.92,
+          "cumulative_lower": 27.2,
+          "cumulative_upper": 146.65
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 90.74,
+          "cumulative_lower": 28.11,
+          "cumulative_upper": 153.63
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 94.63,
+          "cumulative_lower": 29.15,
+          "cumulative_upper": 160.43
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 99.05,
+          "cumulative_lower": 30.78,
+          "cumulative_upper": 167.71
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 104.45,
+          "cumulative_lower": 33.34,
+          "cumulative_upper": 176.12
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 107.83,
+          "cumulative_lower": 33.78,
+          "cumulative_upper": 182.14
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 110.95,
+          "cumulative_lower": 34.13,
+          "cumulative_upper": 188.1
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 114.27,
+          "cumulative_lower": 34.64,
+          "cumulative_upper": 194.22
+        }
+      ],
+      "cumulative_actual_to_date": 6.96,
+      "breach": {
+        "will_breach": true,
+        "date": "2026-09-27",
+        "days_from_now": 25
+      }
+    },
+    {
+      "category": "Rent & Utilities",
+      "monthly_budget": 900,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 30.96
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 30.43
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 90.93,
+          "cumulative_lower": 89.02,
+          "cumulative_upper": 92.84
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 121.21,
+          "cumulative_lower": 117.45,
+          "cumulative_upper": 125.06
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 151.02,
+          "cumulative_lower": 145.28,
+          "cumulative_upper": 156.72
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 180.75,
+          "cumulative_lower": 173.19,
+          "cumulative_upper": 188.42
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 210.12,
+          "cumulative_lower": 200.55,
+          "cumulative_upper": 219.72
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 239.67,
+          "cumulative_lower": 228.24,
+          "cumulative_upper": 251.32
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 269.48,
+          "cumulative_lower": 256.05,
+          "cumulative_upper": 283.11
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 299.06,
+          "cumulative_lower": 283.75,
+          "cumulative_upper": 314.68
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 329.37,
+          "cumulative_lower": 312.01,
+          "cumulative_upper": 346.89
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 359.2,
+          "cumulative_lower": 340.01,
+          "cumulative_upper": 378.62
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 388.97,
+          "cumulative_lower": 367.82,
+          "cumulative_upper": 410.37
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 418.37,
+          "cumulative_lower": 395.2,
+          "cumulative_upper": 441.63
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 447.95,
+          "cumulative_lower": 422.87,
+          "cumulative_upper": 473.2
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 477.8,
+          "cumulative_lower": 450.81,
+          "cumulative_upper": 504.97
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 507.4,
+          "cumulative_lower": 478.54,
+          "cumulative_upper": 536.7
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 537.74,
+          "cumulative_lower": 506.88,
+          "cumulative_upper": 569.07
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 567.62,
+          "cumulative_lower": 534.87,
+          "cumulative_upper": 600.97
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 597.41,
+          "cumulative_lower": 562.71,
+          "cumulative_upper": 632.7
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 626.84,
+          "cumulative_lower": 590.34,
+          "cumulative_upper": 664.21
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 656.46,
+          "cumulative_lower": 617.94,
+          "cumulative_upper": 695.8
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 686.34,
+          "cumulative_lower": 645.93,
+          "cumulative_upper": 727.52
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 715.98,
+          "cumulative_lower": 673.63,
+          "cumulative_upper": 759.08
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 746.35,
+          "cumulative_lower": 702.05,
+          "cumulative_upper": 791.57
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 776.25,
+          "cumulative_lower": 730.01,
+          "cumulative_upper": 823.4
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 806.07,
+          "cumulative_lower": 757.82,
+          "cumulative_upper": 855.15
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 835.54,
+          "cumulative_lower": 785.32,
+          "cumulative_upper": 886.74
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 865.19,
+          "cumulative_lower": 812.88,
+          "cumulative_upper": 918.2
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 895.1,
+          "cumulative_lower": 840.77,
+          "cumulative_upper": 949.96
+        }
+      ],
+      "cumulative_actual_to_date": 61.39,
+      "breach": {
+        "will_breach": false,
+        "date": null,
+        "days_from_now": null
+      }
+    },
+    {
+      "category": "Remittance / Family Support",
+      "monthly_budget": 300,
+      "currency": "USD",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "daily": 0.61
+        },
+        {
+          "date": "2026-09-02",
+          "daily": 0.44
+        }
+      ],
+      "forecast": [
+        {
+          "date": "2026-09-03",
+          "cumulative_yhat": 14.77,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 48.85
+        },
+        {
+          "date": "2026-09-04",
+          "cumulative_yhat": 26.07,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 96.65
+        },
+        {
+          "date": "2026-09-05",
+          "cumulative_yhat": 37.14,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 141.63
+        },
+        {
+          "date": "2026-09-06",
+          "cumulative_yhat": 47.63,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 187.57
+        },
+        {
+          "date": "2026-09-07",
+          "cumulative_yhat": 48.95,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 223.58
+        },
+        {
+          "date": "2026-09-08",
+          "cumulative_yhat": 56.36,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 267.75
+        },
+        {
+          "date": "2026-09-09",
+          "cumulative_yhat": 61.42,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 310.33
+        },
+        {
+          "date": "2026-09-10",
+          "cumulative_yhat": 75.21,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 358.54
+        },
+        {
+          "date": "2026-09-11",
+          "cumulative_yhat": 86.57,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 406.96
+        },
+        {
+          "date": "2026-09-12",
+          "cumulative_yhat": 97.7,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 453.63
+        },
+        {
+          "date": "2026-09-13",
+          "cumulative_yhat": 108.26,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 498.94
+        },
+        {
+          "date": "2026-09-14",
+          "cumulative_yhat": 109.64,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 538.62
+        },
+        {
+          "date": "2026-09-15",
+          "cumulative_yhat": 117.11,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 582.9
+        },
+        {
+          "date": "2026-09-16",
+          "cumulative_yhat": 122.24,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 625.79
+        },
+        {
+          "date": "2026-09-17",
+          "cumulative_yhat": 136.08,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 678.26
+        },
+        {
+          "date": "2026-09-18",
+          "cumulative_yhat": 147.51,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 723.98
+        },
+        {
+          "date": "2026-09-19",
+          "cumulative_yhat": 158.7,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 768.7
+        },
+        {
+          "date": "2026-09-20",
+          "cumulative_yhat": 169.32,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 815.76
+        },
+        {
+          "date": "2026-09-21",
+          "cumulative_yhat": 170.76,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 850.23
+        },
+        {
+          "date": "2026-09-22",
+          "cumulative_yhat": 178.3,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 895.02
+        },
+        {
+          "date": "2026-09-23",
+          "cumulative_yhat": 183.49,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 934.08
+        },
+        {
+          "date": "2026-09-24",
+          "cumulative_yhat": 197.4,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 981.41
+        },
+        {
+          "date": "2026-09-25",
+          "cumulative_yhat": 208.88,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1027.28
+        },
+        {
+          "date": "2026-09-26",
+          "cumulative_yhat": 220.14,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1072.32
+        },
+        {
+          "date": "2026-09-27",
+          "cumulative_yhat": 230.83,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1119.81
+        },
+        {
+          "date": "2026-09-28",
+          "cumulative_yhat": 232.33,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1153.78
+        },
+        {
+          "date": "2026-09-29",
+          "cumulative_yhat": 239.93,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1199.84
+        },
+        {
+          "date": "2026-09-30",
+          "cumulative_yhat": 245.18,
+          "cumulative_lower": 1.05,
+          "cumulative_upper": 1242.09
+        }
+      ],
+      "cumulative_actual_to_date": 1.05,
+      "breach": {
+        "will_breach": false,
+        "date": null,
+        "days_from_now": null
+      }
+    }
+  ]
+}
